@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding using Java, C# and Python
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java Applications
-- 📫 How to reach me  leartoriba97@gmail.com
+- 📫 How to reach me  ribalerato97@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love challenges
 
